@@ -31,7 +31,7 @@ function App() {
   <div className="project-card">
   <h3>Dashboard App</h3>
   <p>Login + Dashboard + Users API</p>
-  <a href="https://github.com/shok1234/dashboard-app" target="_blank">
+  <a href="https://github.com/shok1234/dashboard-app.git" target="_blank">
     View Code
   </a>
 </div>
