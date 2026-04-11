@@ -35,6 +35,13 @@ function App() {
     View Code
   </a>
 </div>
+ <div className="project-card">
+  <h3>LandingPage App</h3>
+  <p>Servics + Portfilo + About + Review + Contact</p>
+  <a href="https://github.com/shok1234/LandingPage" target="_blank">
+    View Code
+  </a>
+</div>
 </section>
         {/*contact*/}
         <section>
